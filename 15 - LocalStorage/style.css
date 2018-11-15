@@ -78,3 +78,23 @@
       outline: 0;
       border: 1px solid rgba(0,0,0,0.1);
     }
+    .three-btn-div {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      
+
+    }
+
+    .three-btn-div button {
+      width: 30%;
+      background: hotpink;
+      font-size: 14px;
+      /* font-weight: bold; */
+      height: 37px;
+      border: none;
+      border-radius: 1px;
+      padding: 0;
+      margin-top: 16px;
+
+    }
